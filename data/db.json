@@ -1,0 +1,19 @@
+{
+  "ids": {
+    "Todo": 3,
+    "TodoItem": 53
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"name\":\"Make a chocolate cake\",\"priority\":\"1\",\"id\":1}",
+      "2": "{\"name\":\"Pay the bills\",\"priority\":\"3\",\"id\":2}"
+    },
+    "TodoItem": {
+      "47": "{\"name\":\"Make a shopping list\",\"priority\":3,\"id\":47}",
+      "48": "{\"name\":\"Prepare next week meeting\",\"priority\":2,\"id\":48}",
+      "50": "{\"name\":\"Go to the gym\",\"priority\":1,\"id\":50}",
+      "51": "{\"name\":\"Do math homework\",\"priority\":2,\"id\":51}",
+      "52": "{\"name\":\"Do physics homework\",\"priority\":2,\"id\":52,\"isComplete\":false}"
+    }
+  }
+}
